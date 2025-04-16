@@ -1,0 +1,54 @@
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\Kurumsal İşitme Projesi.dll.config
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\Kurumsal İşitme Projesi.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\Kurumsal İşitme Projesi.pdb
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\csc.exe
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\csc.exe.config
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\csc.rsp
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\csi.exe
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\csi.exe.config
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\csi.rsp
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\vbc.exe
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\vbc.exe.config
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\vbc.rsp
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Helpers.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Mvc.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Razor.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Webpages.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Razor.xml
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Webpages.xml
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Helpers.xml
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\System.Web.Mvc.xml
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\obj\Debug\Kurumsal İşitme Projesi.csproj.AssemblyReference.cache
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\obj\Debug\Kurumsal İşitme Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\obj\Debug\Kurumsal.C6548BED.Up2Date
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\obj\Debug\Kurumsal İşitme Projesi.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\obj\Debug\Kurumsal İşitme Projesi.pdb
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Buffers.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Memory.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Mekatronik\Desktop\Kurumsal İşitme Projesi\Kurumsal İşitme Projesi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
