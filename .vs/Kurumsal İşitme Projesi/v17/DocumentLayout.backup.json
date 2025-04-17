@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|c:\\users\\mekatronik\\desktop\\kurumsal \u0130\u015Fitme projesi\\kurumsal \u0130\u015Fitme projesi\\content\\sitelayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|solutionrelative:kurumsal \u0130\u015Fitme projesi\\content\\sitelayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\kurumsal \u0130\u015Fitme projesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|solutionrelative:kurumsal \u0130\u015Fitme projesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\kurumsal \u0130\u015Fitme projesi\\views\\shared\\site_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\kurumsal \u0130\u015Fitme projesi\\views\\home\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|solutionrelative:kurumsal \u0130\u015Fitme projesi\\views\\home\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|c:\\users\\mekatronik\\desktop\\kurumsal \u0130\u015Fitme projesi\\kurumsal \u0130\u015Fitme projesi\\views\\shared\\site_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|solutionrelative:kurumsal \u0130\u015Fitme projesi\\views\\shared\\site_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\kurumsal \u0130\u015Fitme projesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|solutionrelative:kurumsal \u0130\u015Fitme projesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\kurumsal \u0130\u015Fitme projesi\\content\\sitelayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|solutionrelative:kurumsal \u0130\u015Fitme projesi\\content\\sitelayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38FA197-9317-47C4-AE7A-69699382D30C}|Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi.csproj|C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\kurumsal \u0130\u015Fitme projesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Content\\SiteLayout\\index.html",
               "RelativeDocumentMoniker": "Kurumsal \u0130\u015Fitme Projesi\\Content\\SiteLayout\\index.html",
               "ToolTip": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Content\\SiteLayout\\index.html",
               "RelativeToolTip": "Kurumsal \u0130\u015Fitme Projesi\\Content\\SiteLayout\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-16T14:14:24.364Z",
+              "WhenOpened": "2025-04-17T20:09:54.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:27:25.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\FooterPartial.cshtml",
+              "RelativeToolTip": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\FooterPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:13:34.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Site_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Shared\\Site_Layout.cshtml",
               "RelativeDocumentMoniker": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Shared\\Site_Layout.cshtml",
               "ToolTip": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Shared\\Site_Layout.cshtml",
               "RelativeToolTip": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Shared\\Site_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIEAAAAAAAAAADwv0AEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-16T13:32:49.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Kurumsal \u0130\u015Fitme Projesi\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T13:28:26.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Kurumsal \u0130\u015Fitme Projesi\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Mekatronik\\Desktop\\Kurumsal \u0130\u015Fitme Projesi\\Kurumsal \u0130\u015Fitme Projesi\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Kurumsal \u0130\u015Fitme Projesi\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T13:27:28.355Z"
             }
